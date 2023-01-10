@@ -27,19 +27,18 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b> Hello Microverse </b></h3>
 
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<!--
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -56,33 +55,73 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
--->
+
 <!-- PROJECT DESCRIPTION -->
 
-Hello Microverse,<a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-> This project is about mastering the tools and best practices for Microverse projects. In this project, I have created html and css files, setup linters and github action and used the correct git flow.
-<!--
-**[Hello Microverse]** is a...
+
+**Hello Microverse** is a project about mastering the tools and best practices for Microverse projects. In this project, I have created html and css files, setup linters and github action and used the correct git flow.
 
 ## 🛠 Built With <a name="built-with"></a>
+- HTML
+- CSS
 
 ### Tech Stack <a name="tech-stack"></a>
 
--->
+> HTML & CSS
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://expressjs.com/">Express.js</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
 <!-- Features -->
 
+### Key Features <a name="key-features"></a>
+
+
+- **HTML File**
+- **CSS File**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Add a link to your deployed project.
+
+- [Live Demo Link](https://yourdeployedapplicationlink.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
+## 💻 Getting Started <a name="getting-started"></a>
 
+To get a local copy up and running, follow these steps.
 
-<!--### Prerequisites-->
+### Prerequisites
+
+In order to run this project you need:
 
 <!--
 Example command:
@@ -92,9 +131,9 @@ Example command:
 ```
  -->
 
+### Setup
 
-
-
+Clone this repository to your desired folder:
 
 <!--
 Example commands:
@@ -105,6 +144,9 @@ Example commands:
 ```
 --->
 
+### Install
+
+Install this project with:
 
 <!--
 Example command:
@@ -113,7 +155,9 @@ Example command:
   cd my-project
   gem install
 ```
---
+--->
+
+### Usage
 
 To run the project, execute the following command:
 
@@ -125,8 +169,9 @@ Example command:
 ```
 --->
 
-<!--### Run tests -->
+### Run tests
 
+To run tests, run the following command:
 
 <!--
 Example command:
@@ -136,7 +181,9 @@ Example command:
 ```
 --->
 
-<!-- ### Deploymen -->
+### Deployment
+
+You can deploy this project using:
 
 <!--
 Example:
@@ -146,8 +193,11 @@ Example:
 ```
  -->
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 
 👤 **David Igbo**
@@ -157,19 +207,18 @@ Example:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 
-<!-- FUTURE FEATURES 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-> Describe 1 - 3 features you will add to the project.
+<!-- FUTURE FEATURES -->
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+## 🔭 Future Features <a name="future-features"></a>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 
-<!-- ## 🤝 Contributing <a name="contributing"></a>
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -179,7 +228,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-<!--## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show your support <a name="support"></a>
 
 > Write a message to encourage readers to support your project
 
@@ -189,7 +238,7 @@ If you like this project...
 
 <!-- ACKNOWLEDGEMENTS -->
 
-<!--## 🙏 Acknowledgments <a name="acknowledgements"></a>
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 > Give credit to everyone who inspired your codebase.
 
@@ -197,20 +246,12 @@ I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-<!--## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[please, can I use your project to gain mastery?]**
-
-  
-
-- **[please, can you help me with solution to this?]**
-
-  
-
-
-
 <!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
