@@ -204,7 +204,7 @@ Example:
 
 - GitHub: [@david30-maker](https://github.com/githubhandle)
 - Twitter: [@davidigbo](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [linkedin.com/in/david-igbo-464196184](https://linkedin.com/in/linkedinhandle)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
